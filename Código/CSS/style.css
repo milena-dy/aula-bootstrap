@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body{
+    font: 20px arial san-serif;
+}
+
+nav{
+    background-color: #f6d8ae;
+}
+
+.quem-somos{
+    background-color: #badefccb;
+    color: rgb(109, 94, 66);
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros{
+    background-color: #a7c9e4cb;
+}
+
+.serv{
+    background-color: #94b1c9cb;
+}
+
+.bg-footer{
+    background-color: #192a38cb;
+    color: whitesmoke;
+    font-weight: bolder;
+    padding-bottom: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
